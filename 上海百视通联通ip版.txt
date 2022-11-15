@@ -86,6 +86,6 @@ SiTV东方财经 540,http://aliyun-shbu-live.bestvcdn.com.cn/live/program/live/d
 
 shbu.live.bestvcdn.com.cn:8080
 http://219.151.136.109/keonline.shanghai.liveplay.qq.com
-112.132.209.46/liveplay-kk.rtxapp.com
+219.151.31.38/liveplay-kk.rtxapp.com
 183.207.255.190
 112.25.48.68
